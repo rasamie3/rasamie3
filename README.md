@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahma Hussein
 
-<!--
-**rasamie3/rasamie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software and Machine Learning Engineer** with hands-on experience developing real-world ML applications and scalable backend systems. Currently, I’m working at [Pylon (YC 21)](https://pylonump.com/) where I build production-grade solutions that blend backend engineering and AI for impactful infrastructure products.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+**Software & Machine Learning Engineer**  
+📍 *Pylon (YC 21), Cairo, Egypt — remote*  
+🗓️ *Aug 2022 – Present*
+
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, C/C++, PHP, SQL  
+**Frameworks & APIs:** Flask, FastAPI, Django, Express, Laravel/Lumen  
+**Databases:** PostgreSQL, MySQL, Oracle, MongoDB, Redis  
+**ML Tools:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, LLMs  
+**Cloud & DevOps:** AWS (SageMaker, EC2), Google Cloud, Docker, Git  
+**Data & Visualization:** Spark, Kafka, Tableau, Matplotlib
+
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [irahmahussein@gmail.com](mailto:irahmahussein@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rahhma-husein](https://www.linkedin.com/in/rahhma-husein/)
